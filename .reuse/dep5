@@ -1,0 +1,16 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Buo-ren, Lin's Home Network Private DNS Service
+Upstream-Contact: Project's issue tracker <https://github.com/brlin-tw/brlin-home-dns/issues>
+Source: https://github.com/brlin-tw/brlin-home-dns
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
+
+Files:
+    README.md
+    */README.md
+Copyright: 2021 "Buo-ren, Lin's Home Network Private DNS Service" Project Contributors <https://github.com/brlin-tw/brlin-home-dns/graphs/contributors>
+License: CC-BY-SA-4.0
